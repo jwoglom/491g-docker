@@ -21,7 +21,7 @@ apt-get install -y resolvconf
 
 apt-get -y install 
 
-apt-get -y install vim nano less htop telnet netcat
+apt-get -y install vim nano less htop telnet netcat iputils-ping 
 
 # ---------------------------------------
 # install telnet server

@@ -214,6 +214,6 @@ apt-get -y install tftp           #tftp client
 # https://help.ubuntu.com/community/TFTP
 # ---------------------------------------
 apt-get -y install vsftpd             #ftp
-apt-get -y install xinetd tftpd tftp
-
+apt-get -y install xinetd tftpd tftp ftp
+apt-get -y install iptables isc-dhcp-client
 

@@ -219,3 +219,7 @@ apt-get -y install iptables isc-dhcp-client
 apt-get -y install nmap
 apt-get -y install dnsutils
 apt-get -y install unzip zip
+
+# openvswitch
+apt-get install -y openvswitch-switch
+
